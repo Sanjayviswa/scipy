@@ -59,7 +59,7 @@ For the installation instructions, see `our install
 guide <https://scipy.github.io/devdocs/getting_started.html#installation>`__.
 
 
-Call for Contributions
+Contributions
 ----------------------
 
 We appreciate and welcome contributions. Small improvements or fixes are always appreciated; issues labeled as "good
